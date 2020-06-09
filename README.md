@@ -1,5 +1,5 @@
-# aerori.github.io
-If you're looking for my webcomic, it's (here)[https://strawberry.pink.] Bunnie Comic isn't done.
+# This isn't the droid you're looking for, is it?
+If you're looking for my webcomic, it's here: https://strawberry.pink. Bunnie Comic isn't done, see you in 2021.
 
-future plans; my webcomic, a blog, general shenanigans. 
-built with (hugo)[https://github.com/gohugoio/hugo]!
+future plans; a blog, general shenanigans. 
+this boring-ass-looking page was built with hugo- (https://github.com/gohugoio/hugo)!
