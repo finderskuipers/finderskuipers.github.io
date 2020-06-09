@@ -1,5 +1,5 @@
 # aerori.github.io
-a cute little portfolio site: under construction for now, sorry.
+If you're looking for my webcomic, it's https://strawberry.pink. Bunnie Comic isn't done.
 
-future plans; my webcomic, a blog for documenting my summer internship at SAS (frontend development and UX), general shenanigans. 
+future plans; my webcomic, a blog, general shenanigans. 
 built with hugo! https://github.com/gohugoio/hugo
